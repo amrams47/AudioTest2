@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4087797893	Play_AR_Glass_MetalHit_01			\Default Work Unit\Play_AR_Glass_MetalHit_01	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	1025690605	AR_Glass_MetalHit_01	C:\Users\Andrew Ramsey\Documents\GitHub\AudioTest2\AudioTest\AudioTest_WwiseProject\.cache\Mac\SFX\AR_Glass_MetalHit_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AR_Glass_MetalHit_01		341582
+
