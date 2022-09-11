@@ -16,20 +16,5 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="1584861538" Language="SFX" Hash="2040364165">
-			<ObjectPath>\SoundBanks\Default Work Unit\sf</ObjectPath>
-			<ShortName>sf</ShortName>
-			<Path>sf.bnk</Path>
-			<IncludedEvents>
-				<Event Id="4087797893" Name="Play_AR_Glass_MetalHit_01" ObjectPath="\Events\Default Work Unit\Play_AR_Glass_MetalHit_01" DurationType="OneShot" DurationMin="3.557479" DurationMax="3.557479">
-					<IncludedMemoryFiles>
-						<File Id="1025690605" Language="SFX">
-							<ShortName>AR_Glass_MetalHit_01.wav</ShortName>
-							<Path>SFX\AR_Glass_MetalHit_01_10C4C929.wem</Path>
-						</File>
-					</IncludedMemoryFiles>
-				</Event>
-			</IncludedEvents>
-		</SoundBank>
 	</SoundBanks>
 </SoundBanksInfo>
